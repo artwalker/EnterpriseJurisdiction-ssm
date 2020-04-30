@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44b050c5-2379-4160-aca8-e2524b19136b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/usr/local/apache-maven-3.6.1/maven_repository" />
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="jdk-1.8.0_221" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1alEyfAgmA6Z3Gq8HGVvLOf4C3W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hacker-ssm-web/src/main/webapp/pages" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15234375" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hacker-ssm-web/src/main/webapp/pages" />
+      <recent name="$PROJECT_DIR$/hacker-ssm-utils/src/main/java/org/hacker/ssm/utils" />
+      <recent name="$PROJECT_DIR$/hacker-ssm-web/src/main/webapp/img" />
+      <recent name="$PROJECT_DIR$/hacker-ssm-web/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/hacker-ssm-web/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hacker-ssm-web/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/hacker-ssm-web/src/main/webapp/pages" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="hacker-ssm-web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/hacker-ssm-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44b050c5-2379-4160-aca8-e2524b19136b" name="Default Changelist" comment="" />
+      <created>1587302036091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587302036091</updated>
+      <workItem from="1587302038374" duration="1669000" />
+      <workItem from="1587303738593" duration="1608000" />
+      <workItem from="1587346108400" duration="8362000" />
+      <workItem from="1587354662381" duration="959000" />
+      <workItem from="1587362795518" duration="1258000" />
+      <workItem from="1587364081083" duration="8123000" />
+      <workItem from="1587394715796" duration="3310000" />
+      <workItem from="1587524119552" duration="3337000" />
+      <workItem from="1587607400096" duration="5660000" />
+      <workItem from="1587631658153" duration="863000" />
+      <workItem from="1587634341513" duration="318000" />
+      <workItem from="1587634699816" duration="8257000" />
+      <workItem from="1587654832723" duration="248000" />
+      <workItem from="1587690388137" duration="11338000" />
+      <workItem from="1587868086284" duration="537000" />
+      <workItem from="1587868949140" duration="1982000" />
+      <workItem from="1587889529004" duration="363000" />
+      <workItem from="1587898256993" duration="748000" />
+      <workItem from="1587918227216" duration="2601000" />
+      <workItem from="1587961875130" duration="6501000" />
+      <workItem from="1588040980856" duration="781000" />
+      <workItem from="1588046338366" duration="1703000" />
+      <workItem from="1588053595442" duration="429000" />
+      <workItem from="1588058940159" duration="11255000" />
+      <workItem from="1588125588544" duration="11235000" />
+      <workItem from="1588155676443" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="274" key="#Project_Structure" timestamp="1588085371124">
+      <screen x="0" y="23" width="1920" height="1127" />
+    </state>
+    <state x="559" y="267" key="#Project_Structure/0.0.1920.1200@0.0.1920.1200" timestamp="1587397045801" />
+    <state x="557" y="274" key="#Project_Structure/0.23.1920.1127@0.23.1920.1127" timestamp="1588085371124" />
+    <state x="557" y="274" key="#Project_Structure/0.23.1920.1128@0.23.1920.1128" timestamp="1587698835621" />
+    <state x="369" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587351630497">
+      <screen x="0" y="23" width="1920" height="1128" />
+    </state>
+    <state x="369" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1128@0.23.1920.1128" timestamp="1587351630497" />
+    <state x="616" y="282" key="#com.intellij.ide.util.MemberChooser" timestamp="1588153795760">
+      <screen x="0" y="23" width="1920" height="1127" />
+    </state>
+    <state x="616" y="276" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1200@0.0.1920.1200" timestamp="1587696157645" />
+    <state x="616" y="282" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1127@0.23.1920.1127" timestamp="1588153795760" />
+    <state x="616" y="282" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1128@0.23.1920.1128" timestamp="1587965902518" />
+    <state x="101" y="123" width="1086" height="927" key="DiffContextDialog" timestamp="1588060167370">
+      <screen x="0" y="23" width="1920" height="1127" />
+    </state>
+    <state x="101" y="123" width="1086" height="927" key="DiffContextDialog/0.23.1920.1127@0.23.1920.1127" timestamp="1588060167370" />
+    <state width="1124" height="368" key="GridCell.Tab.0.bottom" timestamp="1588155955283">
+      <screen x="0" y="23" width="1920" height="1127" />
+    </state>
+    <state width="1878" height="544" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1588052593818" />
+    <state width="1124" height="368" key="GridCell.Tab.0.bottom/0.23.1920.1127@0.23.1920.1127" timestamp="1588155955283" />
+    <state width="1878" height="544" key="GridCell.Tab.0.bottom/0.23.1920.1128@0.23.1920.1128" timestamp="1588053525829" />
+    <state width="1124" height="368" key="GridCell.Tab.0.center" timestamp="1588155955279">
+      <screen x="0" y="23" width="1920" height="1127" />
+    </state>
+    <state width="1878" height="544" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1588052593815" />
+    <state width="1124" height="368" key="GridCell.Tab.0.center/0.23.1920.1127@0.23.1920.1127" timestamp="1588155955279" />
+    <state width="1878" height="544" key="GridCell.Tab.0.center/0.23.1920.1128@0.23.1920.1128" timestamp="1588053525828" />
+    <state width="1124" height="368" key="GridCell.Tab.0.left" timestamp="1588155955278">
+      <screen x="0" y="23" width="1920" height="1127" />
+    </state>
+    <state width="1878" height="544" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1588052593814" />
+    <state width="1124" height="368" key="GridCell.Tab.0.left/0.23.1920.1127@0.23.1920.1127" timestamp="1588155955278" />
+    <state width="1878" height="544" key="GridCell.Tab.0.left/0.23.1920.1128@0.23.1920.1128" timestamp="1588053525827" />
+    <state width="1124" height="368" key="GridCell.Tab.0.right" timestamp="1588155955281">
+      <screen x="0" y="23" width="1920" height="1127" />
+    </state>
+    <state width="1878" height="544" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1588052593817" />
+    <state width="1124" height="368" key="GridCell.Tab.0.right/0.23.1920.1127@0.23.1920.1127" timestamp="1588155955281" />
+    <state width="1878" height="544" key="GridCell.Tab.0.right/0.23.1920.1128@0.23.1920.1128" timestamp="1588053525828" />
+    <state x="491" y="306" key="NewModule_or_Project.wizard" timestamp="1587350467637">
+      <screen x="0" y="23" width="1920" height="1128" />
+    </state>
+    <state x="491" y="301" key="NewModule_or_Project.wizard/0.0.1920.1200@0.0.1920.1200" timestamp="1587303656577" />
+    <state x="491" y="306" key="NewModule_or_Project.wizard/0.23.1920.1128@0.23.1920.1128" timestamp="1587350467637" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1587898990995">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="329" y="172" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1587690850909" />
+    <state x="0" y="23" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1587898990995" />
+    <state x="329" y="185" key="SettingsEditor/0.23.1920.1128@0.23.1920.1128" timestamp="1587898605423" />
+    <state x="1109" y="188" width="790" height="538" key="find.popup" timestamp="1588148587873">
+      <screen x="0" y="23" width="1920" height="1127" />
+    </state>
+    <state x="637" y="364" width="790" height="538" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1587649949635" />
+    <state x="1109" y="188" width="790" height="538" key="find.popup/0.23.1920.1127@0.23.1920.1127" timestamp="1588148587873" />
+    <state x="1109" y="187" width="790" height="538" key="find.popup/0.23.1920.1128@0.23.1920.1128" timestamp="1587966425734" />
+    <state x="453" y="470" key="new project wizard" timestamp="1587354688857">
+      <screen x="0" y="23" width="1920" height="1128" />
+    </state>
+    <state x="461" y="403" key="new project wizard/0.0.1920.1200@0.0.1920.1200" timestamp="1587303848662" />
+    <state x="453" y="470" key="new project wizard/0.23.1920.1128@0.23.1920.1128" timestamp="1587354688857" />
+    <state x="1089" y="311" width="700" height="530" key="recent.locations.popup" timestamp="1587962307743">
+      <screen x="0" y="23" width="1920" height="1128" />
+    </state>
+    <state x="1089" y="311" width="700" height="530" key="recent.locations.popup/0.23.1920.1128@0.23.1920.1128" timestamp="1587962307743" />
+    <state x="1044" y="276" width="670" height="676" key="search.everywhere.popup" timestamp="1588072264520">
+      <screen x="0" y="23" width="1920" height="1127" />
+    </state>
+    <state x="1044" y="276" width="670" height="676" key="search.everywhere.popup/0.23.1920.1127@0.23.1920.1127" timestamp="1588072264520" />
+    <state x="1044" y="276" width="670" height="676" key="search.everywhere.popup/0.23.1920.1128@0.23.1920.1128" timestamp="1587526308431" />
+    <state x="170" y="282" key="spring file set editor" timestamp="1587346552125">
+      <screen x="0" y="23" width="1920" height="1128" />
+    </state>
+    <state x="170" y="282" key="spring file set editor/0.23.1920.1128@0.23.1920.1128" timestamp="1587346552125" />
+  </component>
+</project>

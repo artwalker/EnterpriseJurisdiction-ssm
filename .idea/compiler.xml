@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hacker-ssm-service" />
+        <module name="hacker-ssm-utils" />
+        <module name="hacker-ssm-web" />
+        <module name="hacker-ssm-dao" />
+        <module name="hacker-ssm-doamin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hacker_ssm_web" target="1.8" />
+      <module name="heima_ssm_dao" target="1.8" />
+      <module name="heima_ssm_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+org/hacker/ssm/service/impl/OrdersServiceImpl.class
+org/hacker/ssm/service/IUserService.class
+org/hacker/ssm/service/IRoleService.class
+org/hacker/ssm/service/IOrdersService.class
+org/hacker/ssm/service/impl/UserServiceImpl.class
+org/hacker/ssm/service/IProductService.class
+org/hacker/ssm/service/ISysLogService.class
+org/hacker/ssm/service/impl/SysLogServiceImpl.class
+org/hacker/ssm/service/impl/ProductServiceImpl.class
+org/hacker/ssm/service/IPermissionService.class
+org/hacker/ssm/service/impl/RoleServiceImpl.class
+org/hacker/ssm/service/impl/PermissionServiceImpl.class

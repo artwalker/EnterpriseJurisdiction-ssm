@@ -1,0 +1,8 @@
+org/hacker/ssm/domain/Permission.class
+org/hacker/ssm/domain/SysLog.class
+org/hacker/ssm/domain/Member.class
+org/hacker/ssm/domain/Product.class
+org/hacker/ssm/domain/Role.class
+org/hacker/ssm/domain/UserInfo.class
+org/hacker/ssm/domain/Traveller.class
+org/hacker/ssm/domain/Orders.class
