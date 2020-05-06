@@ -10,5 +10,7 @@
 
 [b站在线视频](https://www.bilibili.com/video/BV1ye411s7ir/)
 
+[博客园记录的笔记](https://www.cnblogs.com/artwalker/p/12782432.html)
+
 微信搜索"艺术行者"，关注并回复关键词"企业权限管理"获取视频和教程资料！
 
