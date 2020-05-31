@@ -30,18 +30,18 @@
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-acl:5.0.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.6.8" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-orm:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-test:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-orm:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.2.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.2.6.RELEASE" />
           <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.12" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.6" />
