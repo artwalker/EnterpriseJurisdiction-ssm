@@ -25,3 +25,6 @@
 8. 资源权限管理
 9. 权限关联与控制
 10. AOP日志处理
+
+如何启动？
+打开Maven的web目录选择tomcat7:run运行，也可以配置Maven之后在工具栏启动，还可以打开Maven输入tomcat7:run启动。
